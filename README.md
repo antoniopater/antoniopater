@@ -37,6 +37,19 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
+---
+
+## 📈 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/antoniopater?theme=dark&font=baloo&ext=heatmap)
+
+---
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=antoniopater&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+
+---
 
 
 ## 📚 Scientific and Volunteering Activities
