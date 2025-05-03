@@ -37,17 +37,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![Antoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniopater&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniopater&layout=compact&theme=tokyonight)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=antoniopater&theme=tokyo-night)
-
----
 
 
 ## 📚 Scientific and Volunteering Activities
