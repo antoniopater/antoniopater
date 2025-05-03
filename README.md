@@ -41,13 +41,11 @@
 
 ## 📈 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/antoniopater?theme=dark&font=baloo&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/AntoniPater?theme=dark&font=baloo&ext=heatmap)
 
 ---
 
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=antoniopater&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniopater&layout=compact&theme=tokyonight)
 
 ---
 
